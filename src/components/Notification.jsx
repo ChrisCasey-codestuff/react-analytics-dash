@@ -1,6 +1,6 @@
 function Notification () {
   return <div>
-
+<p>notifications</p>
   </div>
 }
 
