@@ -1,4 +1,4 @@
-#React Admin Analytics Dashboard
+# React Admin Analytics Dashboard
 ### This app was build using a powerful combination of React, TailwindCss, and the Syncfusion react component library, following a JSMatery tutorial.
 
 The app showcases a wide variety of different dynamic components such as a calendar, kanban, and employee page along with various charts and analytics.
